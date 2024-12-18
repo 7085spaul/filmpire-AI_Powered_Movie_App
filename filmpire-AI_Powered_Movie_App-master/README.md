@@ -1,4 +1,4 @@
-# FILMPIRE - Shubham Kadam
+# FILMPIRE - nandagiri mythri
 
 [View Demo](https://filmpire-ssk.netlify.app/)
 
@@ -63,7 +63,7 @@ Setup:
 
 _For more detailes regarding TMDB API calls, please refer to the [Documentation](https://developers.themoviedb.org/3/getting-started/introduction)._
 
-See the [open issues](https://github.com/ShubhamSKadam/filmpire-AI_Powered_Movie_App/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/7085spaul/filmpire-AI_Powered_Movie_App/issues) for a full list of proposed features (and known issues).
 
 ## Contributing
 Contributions are what makes the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
